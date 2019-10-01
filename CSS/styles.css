@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Condiment', serif;
+  font-size: 70px;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h2, h3 {
+  font-family: 'Bree Serif', serif;
+  color: #311D3F;
+}
+
+p {
+  color: #311d3f;
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+}
+
+hr {
+  width: 20%;
+  border: dotted #D8D8D8 6px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+.web-developer {
+  color: #311d3f;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.5rem;
+  position: relative;
+  bottom: 30px;
+}
+
+.top-container {
+  background-color: #F4FFFE;
+  color: #311D3F;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 20px;
+  width: 50%;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.bottom-container {
+  background-color: #311d3f;
+  padding: 30px 0 16px;
+  color: white;
+}
+
+.butn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #311d3f;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #753767;
+  text-decoration: none;
+}
+
+.footer-link {
+  color: white;
+  margin: 0 50px;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+}
+
+.copyright {
+  color: white;
+  margin: 0;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+/*/////////////IMAGES///////////*/
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 370px;
+}
+
+.code {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+  left: 300px;
+  bottom: 350px;
+}
+
+.excel {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.html-5 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.css-3 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.laptop {
+  width: 20%;
+  margin: 0 auto;
+}
